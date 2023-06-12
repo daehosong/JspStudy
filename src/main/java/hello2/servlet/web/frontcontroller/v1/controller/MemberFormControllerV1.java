@@ -1,8 +1,6 @@
 package hello2.servlet.web.frontcontroller.v1.controller;
 
-import hello2.servlet.domain.member.Member;
-import hello2.servlet.domain.member.MemberRepository;
-import hello2.servlet.web.frontcontroller.ControllerV1;
+import hello2.servlet.web.frontcontroller.v1.ControllerV1;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
